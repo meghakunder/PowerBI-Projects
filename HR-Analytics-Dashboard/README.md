@@ -14,6 +14,7 @@
 ## Dashboard Pages
 
 ### 1. Home Page
+![Home Page](Home%20Page.png)
 Provides an overall summary of the organization including:
 - Total Employees
 - Gender Distribution
@@ -25,6 +26,7 @@ Provides an overall summary of the organization including:
 - Distance Status Analysis
 
 ### 2. Action Page
+![Action Page](Action%20Page.png)
 Focuses on employees who:
 - Are due for promotion
 - May face retrenchment
@@ -35,6 +37,7 @@ This page was specifically designed to identify employees who are eligible for s
 The organization’s business requirement was to track employees who were due for promotion but were also marked for retrenchment, helping HR identify employees requiring compensation and severance-related actions.
 
 ### 3. Detail Page
+![Detail Page](Detail%20Page.png)
 Provides detailed analysis on:
 - Job Satisfaction
 - Overtime Analysis

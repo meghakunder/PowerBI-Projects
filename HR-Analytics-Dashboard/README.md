@@ -30,6 +30,10 @@ Focuses on employees who:
 - May face retrenchment
 - Require HR attention
 
+This page was specifically designed to identify employees who are eligible for severance pay. 
+
+The organization’s business requirement was to track employees who were due for promotion but were also marked for retrenchment, helping HR identify employees requiring compensation and severance-related actions.
+
 ### 3. Detail Page
 Provides detailed analysis on:
 - Job Satisfaction

@@ -24,7 +24,7 @@ The dashboard helps analyze:
 # Dashboard Pages
 
 ## 1. Overview Dashboard
-![Overview Dashboard](screenshot/overview-dashboard.png)
+![Overview Dashboard](Screenshot/Overview.png)
 
 Key business KPIs and overall sales performance analysis.
 
